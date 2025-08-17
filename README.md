@@ -7,3 +7,4 @@
 ## 3. Ambiente de Desenvolvimento
 
 1. [x] Alo Mundo
+2. [x] Organizando o Ambiente
